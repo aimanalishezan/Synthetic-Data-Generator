@@ -1,5 +1,3 @@
-Perfect! Here's the updated `README.md` including a `requirements.txt` and a detailed **Deploy Guide** for both **Colab** and **Hugging Face Spaces**.
-
 ---
 
 # 🧠 Synthetic Data Generator
@@ -154,5 +152,3 @@ MIT License. Feel free to modify and use!
 - [BitsAndBytes](https://github.com/TimDettmers/bitsandbytes)
 
 ---
-
-Let me know if you want me to create the `app.py` file separately for Hugging Face Spaces!
